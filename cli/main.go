@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/timurgen/golang-sesam-client/v0/api"
+	"github.com/timurgen/sesam-golang-client/v0/api"
 )
 
 func main() {
