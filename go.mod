@@ -1,3 +1,3 @@
-module github.com/timurgen/sesam-golang-client/v0
+module github.com/timurgen/sesam-golang-client
 
 go 1.15
